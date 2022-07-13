@@ -9,3 +9,5 @@ Open terminal
 wget -qO- https://get.nextflow.io | bash
 moves the executable to your PATH. Note /usr/local/bin is the default for MacOS
 sudo mv nextflow /usr/local/bin
+
+Tried second commit
